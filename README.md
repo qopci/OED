@@ -1,4 +1,5 @@
 # Open Energy Dashboard #
+Secret message! Diana was here.
 
 ![Github Build](https://github.com/OpenEnergyDashboard/OED/workflows/Build/badge.svg)
 
