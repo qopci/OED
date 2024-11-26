@@ -532,7 +532,12 @@ export default function ReadingsCSVUploadComponent() {
 								</Col>
 							</Row>
 							{/* TODO This feature is not working perfectly so disabling from web page but allowing in curl.
-								Rest of changes left so easy to add back in. */}
+								Rest of changes left so easy to add back in.
+								This feature was added to help a site import data. It works but can have issues.
+								Thus, it is only allowed for script uploading since that was the need. It was
+								originally added to the web page input of import but decided to not allow
+								it at this time. Thus, the code was commented out. As of now
+								there is no plan to make this generally available due to its limitations.*/}
 							{/*
 								<Label check>
 									<Input
